@@ -1,5 +1,10 @@
+
 asdkas;kd jaskljd as
 d as; jd;asjd ;
 as djasjd 
 
 asdkonflkt se souborem
+
+konflkt se souborem
+commit vetev
+master
